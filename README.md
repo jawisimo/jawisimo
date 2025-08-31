@@ -26,7 +26,6 @@ Technologies I’ve worked with and use in my development.
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-ED2B2B?style=for-the-badge&logo=projectlombok&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-0A66C2?style=for-the-badge&logoColor=white)
 ![Slf4j](https://img.shields.io/badge/SLF4J-FAAC18?style=for-the-badge&logo=log4j&logoColor=white)
 ![Logback](https://img.shields.io/badge/Logback-4B6C4B?style=for-the-badge&logo=log4j&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
