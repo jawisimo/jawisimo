@@ -2,8 +2,7 @@
 
 ## 🚀 Java Developer
 
-I'm a Java developer who believes that technology can genuinely make a positive impact on the world — sometimes even far more than we can imagine today. That’s why I’m motivated to keep growing in this field: I don’t just want to write code, I want to be part of solutions that actually make a difference.
-
+Job offers and salary are great. But the real kick is knowing that today I'm capable of more than I was yesterday. Everything else is just nice perks.
 ---
 
 ## 🛠️ Tech Stack
