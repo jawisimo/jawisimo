@@ -3,7 +3,9 @@
 ## 🚀 Java Developer
 
 Job offers and salary are great. 
+
 But the real kick is knowing that today I'm capable of more than I was yesterday. 
+
 Everything else is just nice perks.
 
 ---
